@@ -1,0 +1,19 @@
+{
+  "name": "biblical-loading-messages",
+  "version": "1.0.0",
+  "description": "",
+  "main": "messages.json",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Julian1729/biblical-loading-messages.git"
+  },
+  "author": "Julian Hernandez <julian@julianhernandez.me> (https://julianhernandez.me/)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Julian1729/biblical-loading-messages/issues"
+  },
+  "homepage": "https://github.com/Julian1729/biblical-loading-messages#readme"
+}
