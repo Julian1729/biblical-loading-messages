@@ -2,7 +2,7 @@
   "name": "biblical-loading-messages",
   "version": "1.0.0",
   "description": "",
-  "main": "messages.json",
+  "main": "index.json",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
